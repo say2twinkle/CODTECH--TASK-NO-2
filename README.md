@@ -12,8 +12,11 @@ DURATION:  8 WEEKS from JULY 1st 2024 to SEPTEMBER 1st 2024
 MENTOR: MR. Muzammil
 
 OVERVIEW OF THE PROJECT
+
 Project: FINANCIAL ANALYSIS DASHBOARD
+
 Objective:
+
 The objective of this project is to perform analysis in POWERBI on a SQL database.
 The primary objective of a financial dashboard is to provide a clear, concise, and real-time visual representation of an organization's financial performance. Consolidate financial data from various sources into a single, easy-to-access platform, Simplify complex financial data, Inform future financial plans and projections based on historical trends and data analysis
 
