@@ -13,37 +13,32 @@ MENTOR: MR. Muzammil
 
 OVERVIEW OF THE PROJECT
 
-Project: HR ANALYTICS DASHBOARD
+Project: HUMAN RESOURCES ANALYTICS
 
-Objective:
+OBJECTIVE:
 
-The objective of this project is to perform analysis in POWERBI on a SQL database.
-The primary objective of a financial dashboard is to provide a clear, concise, and real-time visual representation of an organization's financial performance. Consolidate financial data from various sources into a single, easy-to-access platform, Simplify complex financial data, Inform future financial plans and projections based on historical trends and data analysis
+A Human Resources (HR) analysis dashboard is a visual representation of HR-related data and metrics, providing insights into various aspects of an organization's workforce. 
+The primary objective of an HR Analysis Dashboard is to provide a centralized platform for HR professionals and business leaders to make data-driven decisions, drive business outcomes, and optimize their workforce. By integrating and analyzing HR data, the dashboard aims to inform strategic decisions, optimize workforce management, improve employee engagement, and ensure compliance.
+
+HR analysis dashboard provides actionable insights to drive strategic HR decisions, improve workforce management, and enhance business outcomes.
 
 KEY ACTIVITIES:
-1. Data Integration: Combining financial data from various sources.
+1.	Data Integration: Combining HR data from various sources.
 
-2. Financial Metrics Tracking: Monitoring key financial metrics and KPIs.
+2.	Metrics Tracking: Monitoring key HR metrics and KPIs.
 
-3. Budgeting and Forecasting: Creating and managing budgets and forecasts.
+3.	Reporting & Visualization: Creating interactive reports and dashboards.
 
-4. Financial Analysis: Analyzing financial data to identify trends and risks.
+4.	Predictive Analytics: Forecasting future HR trends and outcomes.
 
-5. Reporting and Visualization: Creating interactive reports and dashboards.
+5.	Employee Segmentation: Analyzing and comparing employee groups.
 
-6. Alerts and Notifications: Setting up alerts for critical financial events.
+6.	Strategic Decision Support: Informing talent management and workforce planning decisions.
 
-7. Financial Planning and Modeling: Conducting scenario planning and sensitivity analysis.
-
-8. Compliance and Risk Management: Monitoring financial compliance and managing risks.
-
-9. Stakeholder Management: Communicating financial insights to stakeholders.
-
-10. Continuous Improvement: Regularly updating and refining the dashboard.
-
-By performing these activities, a Financial Dashboard provides a powerful tool for financial management, analysis, and decision-making.
+7.	Continuous Improvement: Regularly updating and refining the dashboard.
 
 Technologies Used:
-POWER BI: The Primary platform to visualize organization's financial performance.
-SQL: For importing data from a SQL database.
+POWER BI: The Primary platform to visualize HR-related data and metrics, providing insights into various aspects of an organization's workforce.
+EXCEL: For importing data from a CSV file.
+
 
